@@ -9,7 +9,7 @@ body{
     width: 100vw;
     display: grid;
     place-content: center;
-    background: linear-gradient(
+    background:-webkit-linear-gradient(
         to right top,
         #ef44de,
         #d46f91,
