@@ -10,7 +10,7 @@ body{
     display: grid;
     place-content: center;
     background:-webkit-linear-gradient(
-        to right top,
+        right bottom,
         #ef44de,
         #d46f91,
         #fa877f,
