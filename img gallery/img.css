@@ -48,6 +48,8 @@ body{
     border-radius: 10px;
     display: grid;
     place-items: center;
+    overflow:hidden;
+    object-position:center;
 }
 .img{
     height: 70%;
